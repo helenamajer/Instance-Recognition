@@ -1,0 +1,6 @@
+ultralytics
+transformers
+faiss-cpu
+torch
+torchvision
+pillow
