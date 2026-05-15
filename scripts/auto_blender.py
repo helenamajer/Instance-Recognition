@@ -1,1 +1,0 @@
-# script to generate annotated dataset
